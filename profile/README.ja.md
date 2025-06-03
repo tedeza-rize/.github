@@ -1,4 +1,6 @@
-[English](./README.en.md) [日本語](./README.ja.md)
+You can read it in other languages: [English](./README.en.md) | [日本語](./README.ja.md)
+
+<img src="./tedeza-rize.png" width="400" alt="天々座理世">
 
 ## 任務開始：天々座理世、出動します！
 

@@ -1,4 +1,6 @@
-[한국어](./README.md) [日本語](./README.ja.md)
+You can read it in other languages: [한국어](./README.md) | [日本語](./README.ja.md)
+
+<img src="./tedeza-rize.png" width="400" alt="Tedeza Rize">
 
 ## Mission Start: Tedeza Rize, Deploying!
 
